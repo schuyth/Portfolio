@@ -1,8 +1,11 @@
 
 # Schuyler Moore
-*Data Analyst*
+*Data Analyst and Storyteller*
 
-# Education
+## Education
+* Bachelors of Arts (Statistics), *University of Minnesota, Morris*, 2014-2018
+
+## Experience
 * Bachelors of Arts (Statistics), *University of Minnesota, Morris*, 2014-2018
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
