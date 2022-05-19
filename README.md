@@ -1,10 +1,9 @@
 
-# John Doe
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+# Schuyler Moore
+*Data Analyst*
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Bachelors of Arts (Statistics), *University of Minnesota, Morris*, 2014-2018
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 
